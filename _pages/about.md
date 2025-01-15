@@ -33,6 +33,18 @@ Current AI research and applications often prioritize adult-focused solutions, w
 
 ## Organizers
 
+<div class="row row-cols-2 projects pt-3 pb-3">
+  {% include people_horizontal.html name="Xu Cao" affiliation="University of Illinois Urbana-Champaign & PediaMed AI" url="https://www.irohxucao.com/" img="assets/organizer/xu.jpg" %}
+  {% include people_horizontal.html name="Jintai Chen" affiliation="HKUST-GZ" url="https://whatashot.github.io/" img="assets/organizer/jintai.jpg" %}
+  {% include people_horizontal.html name="Wenqian Ye" affiliation="University of Virginia" url="https://wenqian-ye.github.io/" img="assets/organizer/wenqian.jpeg" %}
+  {% include people_horizontal.html name="Sheila Agyeiwaa Owusu" affiliation="University of Development Studies in Tamale" url="https://scholar.google.com/citations?user=1xsOCIcAAAAJ" img="assets/organizer/sheila.jpg" %}
+  {% include people_horizontal.html name="Sheng Li" affiliation="University of Virginia" url="https://sheng-li.org/" img="assets/organizer/shengli.png" %}
+  {% include people_horizontal.html name="Megan Coffee" affiliation="Columbia University & NYU Langone" url="https://med.nyu.edu/faculty/megan-coffee" img="assets/organizer/megan.jpg" %}
+  {% include people_horizontal.html name="Sicheng Zhao" affiliation="Tsinghua University" url="https://sites.google.com/view/schzhao" img="assets/organizer/sicheng.jpg" %}
+  {% include people_horizontal.html name="James M. Rehg" affiliation="University of Illinois Urbana-Champaign" url="https://rehg.org/" img="assets/organizer/jim.jpg" %}
+</div>
+
+
 <!-- {% if page.news %}
   {% include news.html %}
 {% endif %} -->
