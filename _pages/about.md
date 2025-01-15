@@ -21,11 +21,13 @@ Current AI research and applications often prioritize adult-focused solutions, w
 
 ## Important Dates
 
-**Paper Submission Start:** Jan 1, 2025      
+**Paper Submission Start:** Jan 15, 2025       
 
-**Paper Submission Deadline:** Feb 04, 2025     
+**Paper Submission Deadline:** Feb 11, 2025     
 
-**Author Notification:** March 04, 2025      
+**Author Notification:** March 04, 2025    
+
+Abstracts and papers can be submitted through the OpenReview platform: [OpenReview Submission Site](https://openreview.net/group?id=ICLR.cc/2025/Workshop/AI4CHL).
 
 
 ## Keynote Speakers
