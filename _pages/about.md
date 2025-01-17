@@ -36,14 +36,16 @@ Abstracts and papers can be submitted through the OpenReview platform: [OpenRevi
 ## Organizers
 
 <div class="row row-cols-2 projects pt-3 pb-3">
-  {% include people_horizontal.html name="Xu Cao" affiliation="University of Illinois Urbana-Champaign & PediaMed AI" url="https://www.irohxucao.com/" img="assets/organizer/xu.jpg" %}
-  {% include people_horizontal.html name="Jintai Chen" affiliation="HKUST-GZ" url="https://whatashot.github.io/" img="assets/organizer/jintai.jpg" %}
-  {% include people_horizontal.html name="Wenqian Ye" affiliation="University of Virginia" url="https://wenqian-ye.github.io/" img="assets/organizer/wenqian.jpeg" %}
-  {% include people_horizontal.html name="Sheila A. Owusu" affiliation="University of Development Studies" url="https://scholar.google.com/citations?user=1xsOCIcAAAAJ" img="assets/organizer/sheila.jpg" style="font-size: 0.5em;" %}
-  {% include people_horizontal.html name="Sheng Li" affiliation="University of Virginia" url="https://sheng-li.org/" img="assets/organizer/shengli.png" %}
-  {% include people_horizontal.html name="Megan Coffee" affiliation="Columbia University & NYU Langone" url="https://med.nyu.edu/faculty/megan-coffee" img="assets/organizer/megan.jpg" %}
-  {% include people_horizontal.html name="Sicheng Zhao" affiliation="Tsinghua University" url="https://sites.google.com/view/schzhao" img="assets/organizer/sicheng.jpg" %}
-  {% include people_horizontal.html name="James M. Rehg" affiliation="University of Illinois Urbana-Champaign" url="https://rehg.org/" img="assets/organizer/jim.jpg" %}
+  {% include people_horizontal.html name="Xu Cao" affiliation="University of Illinois Urbana-Champaign & PediaMed AI" title="General Chair" url="https://www.irohxucao.com/" img="assets/organizer/xu.jpg" %}
+  {% include people_horizontal.html name="Jintai Chen" affiliation="HKUST-GZ" title="General Chair" url="https://whatashot.github.io/" img="assets/organizer/jintai.jpg" %}
+  {% include people_horizontal.html name="Wenqian Ye" affiliation="University of Virginia" title="Program Chair" url="https://wenqian-ye.github.io/" img="assets/organizer/wenqian.jpeg" %}
+  {% include people_horizontal.html name="Sheng Li" affiliation="University of Virginia" title="Program Chair" url="https://sheng-li.org/" img="assets/organizer/shengli.png" %}
+  {% include people_horizontal.html name="Can Cui" affiliation="Purdue University" title="Program Subchair" url="https://cancui19.github.io/" img="assets/organizer/can_cui.jpg" %}
+  {% include people_horizontal.html name="Yunsheng Ma" affiliation="Purdue University" title="Program Subchair" url="https://ysma.me/" img="assets/organizer/yunsheng.jpg" %}
+  {% include people_horizontal.html name="Sheila A. Owusu" affiliation="University of Development Studies" title="Outreach Chair" url="https://scholar.google.com/citations?user=1xsOCIcAAAAJ" img="assets/organizer/sheila.jpg" style="font-size: 0.5em;" %}
+  {% include people_horizontal.html name="Megan Coffee" affiliation="Columbia University & NYU Langone" title="Outreach Chair" url="https://med.nyu.edu/faculty/megan-coffee" img="assets/organizer/megan.jpg" %}
+  {% include people_horizontal.html name="Sicheng Zhao" affiliation="Tsinghua University" title="Publication Chair" url="https://sites.google.com/view/schzhao" img="assets/organizer/sicheng.jpg" %}
+  {% include people_horizontal.html name="James M. Rehg" affiliation="University of Illinois Urbana-Champaign" title="Advisor to the Committee" url="https://rehg.org/" img="assets/organizer/jim.jpg" %}
 </div>
 
 

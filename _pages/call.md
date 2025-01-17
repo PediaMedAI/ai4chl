@@ -15,11 +15,11 @@ We invite submissions of papers on all topics related to artificial intelligence
 
 Topics of interest include (but are not limited to):
 
-1. *New Methods on AI for Children (Deep Learning, Representation Learning, Large Language Models, Reinforcement learning, Time series analysis, etc.)*
+1. *New Methods on AI for Children (Deep Learning, Representation Learning, Embodied Artificial Intelligence, Large Language Models, Reinforcement learning, Time series analysis, etc.)*
 
 2. *New Datasets and Benchmarks about Children (Pediatrics, Child Psychology, Child Development, Education, etc.)*
 
-3. *New Viewpoint/Case Study/Position Paper about risk and opportunity for Child Development in the AI Ara*
+3. *New Viewpoint/Case Study/Position Paper/Survey Paper about risk and opportunity for Child Development in the AI Ara*
 
 There are two track for paper submissions.
 
