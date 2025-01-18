@@ -29,7 +29,7 @@ Current AI research and applications often prioritize adult-focused solutions, w
 
 Abstracts and papers can be submitted through the OpenReview platform: [OpenReview Submission Site](https://openreview.net/group?id=ICLR.cc/2025/Workshop/AI4CHL).
 
-**Call for Reviewers:** We are hiring Program Committee Members (Reviewers) for our Workshop. If your are interested in it, please fill this [Google Form](https://forms.gle/cxvDnAdfa2CCqJW58).
+**❗❗❗Call for Reviewers:** We are hiring Program Committee Members (Reviewers) for our Workshop. If your are interested in it, please fill this [Google Form](https://forms.gle/cxvDnAdfa2CCqJW58).
 
 ## Keynote Speakers
 
