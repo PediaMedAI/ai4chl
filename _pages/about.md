@@ -54,6 +54,10 @@ Will be updated soon.
 
 ## Volunteers
 
+<div class="row row-cols-2 projects pt-3 pb-3">
+  {% include people_horizontal.html name="Fangzhou Lan" affiliation="Squarepoint Capital" url="https://www.linkedin.com/in/fangzhou-l-49616b170/" img="assets/volunteer/fangzhou.jpg" %}
+</div>
+
 We are hiring local volunteers in Singapore. Please email xucao2@illinois.edu if you have interests.
 
 
