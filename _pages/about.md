@@ -28,17 +28,24 @@ Our workshop will invite researchers from the fields of AI, child psychology, ed
 
 **Paper Submission Start:** Jan 15, 2025       
 
-**Paper Submission Deadline:** Feb 11, 2025     
+**Paper Submission Deadline:** Feb 11, 2025, 11:59pm Anywhere on Earth (AOE)    
 
-**Author Notification:** March 04, 2025    
+**Author Notification:** March 04, 2025   
 
 Abstracts and papers can be submitted through the OpenReview platform: [OpenReview Submission Site](https://openreview.net/group?id=ICLR.cc/2025/Workshop/AI4CHL).
 
 **❗❗❗Call for Reviewers:** We are hiring Program Committee Members (Reviewers) for our Workshop. If your are interested in it, please fill this [Google Form](https://forms.gle/cxvDnAdfa2CCqJW58).
 
-## Keynote Speakers
+## Keynote Speakers & Panelists
 
-Will be updated soon.
+<div class="row row-cols-3 projects pt-3 pb-3">
+  {% include keynote_horizontal.html name="Alhassan Abdul-Mumin" affiliation="Tamale Teaching Hospital" url="https://www.stjude.org/education-training/st-jude-graduate-school-of-biomedical-sciences/students/meet-our-students/directory/a/alhassan-abdul-mumin.html" img="assets/keynote/alhassan.jpg" %}
+  {% include keynote_horizontal.html name="Aidong Zhang" affiliation="University of Virginia" url="https://www.cs.virginia.edu/~az9eg/website/home.html" img="assets/keynote/aidong.jpg" %}
+</div>
+
+
+
+More keynote speakers and panelists Will be updated soon.
 
 
 ## Organizers
@@ -55,7 +62,8 @@ Will be updated soon.
   {% include people_horizontal.html name="Sheila A. Owusu" affiliation="University of Development Studies" title="Outreach Chair" url="https://scholar.google.com/citations?user=1xsOCIcAAAAJ" img="assets/organizer/sheila.jpg" style="font-size: 0.5em;" %}
   {% include people_horizontal.html name="Megan Coffee" affiliation="Columbia University & NYU Langone" title="Outreach Chair" url="https://med.nyu.edu/faculty/megan-coffee" img="assets/organizer/megan.jpg" %}
   {% include people_horizontal.html name="Sicheng Zhao" affiliation="Tsinghua University" title="Publication Chair" url="https://sites.google.com/view/schzhao" img="assets/organizer/sicheng.jpg" %}
-  {% include people_horizontal.html name="James M. Rehg" affiliation="University of Illinois Urbana-Champaign" title="Advisor to the Committee" url="https://rehg.org/" img="assets/organizer/jim.jpg" %}
+  {% include people_horizontal.html name="Jimeng Sun" affiliation="University of Illinois Urbana-Champaign" title="Committee Advisor" url="https://rehg.org/" img="assets/organizer/jimeng.jpg" %}
+  {% include people_horizontal.html name="James M. Rehg" affiliation="University of Illinois Urbana-Champaign" title="Committee Advisor" url="https://rehg.org/" img="assets/organizer/jim.jpg" %}
 </div>
 
 
