@@ -61,8 +61,9 @@ More keynote speakers and panelists Will be updated soon.
   {% include people_horizontal.html name="Sheng Li" affiliation="University of Virginia" title="Workflow Chair" url="https://sheng-li.org/" img="assets/organizer/shengli.png" %}
   {% include people_horizontal.html name="Sheila A. Owusu" affiliation="University of Development Studies" title="Outreach Chair" url="https://scholar.google.com/citations?user=1xsOCIcAAAAJ" img="assets/organizer/sheila.jpg" style="font-size: 0.5em;" %}
   {% include people_horizontal.html name="Megan Coffee" affiliation="Columbia University & NYU Langone" title="Outreach Chair" url="https://med.nyu.edu/faculty/megan-coffee" img="assets/organizer/megan.jpg" %}
+  {% include people_horizontal.html name="Sangmin Lee" affiliation="Sungkyunkwan University" title="Outreach Chair" url="https://sites.google.com/view/sangmin-lee" img="assets/organizer/sangmin.jpg" %}
   {% include people_horizontal.html name="Sicheng Zhao" affiliation="Tsinghua University" title="Publication Chair" url="https://sites.google.com/view/schzhao" img="assets/organizer/sicheng.jpg" %}
-  {% include people_horizontal.html name="Jimeng Sun" affiliation="University of Illinois Urbana-Champaign" title="Committee Advisor" url="https://rehg.org/" img="assets/organizer/jimeng.jpg" %}
+  {% include people_horizontal.html name="Jimeng Sun" affiliation="University of Illinois Urbana-Champaign" title="Committee Advisor" url="https://www.sunlab.org/" img="assets/organizer/jimeng.jpg" %}
   {% include people_horizontal.html name="James M. Rehg" affiliation="University of Illinois Urbana-Champaign" title="Committee Advisor" url="https://rehg.org/" img="assets/organizer/jim.jpg" %}
 </div>
 
