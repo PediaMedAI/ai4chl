@@ -41,6 +41,7 @@ Abstracts and papers can be submitted through the OpenReview platform: [OpenRevi
 <div class="row row-cols-3 projects pt-3 pb-3">
   {% include keynote_horizontal.html name="Alhassan Abdul-Mumin" affiliation="Tamale Teaching Hospital" url="https://www.stjude.org/education-training/st-jude-graduate-school-of-biomedical-sciences/students/meet-our-students/directory/a/alhassan-abdul-mumin.html" img="assets/keynote/alhassan.jpg" %}
   {% include keynote_horizontal.html name="Aidong Zhang" affiliation="University of Virginia" url="https://www.cs.virginia.edu/~az9eg/website/home.html" img="assets/keynote/aidong.jpg" %}
+  {% include keynote_horizontal.html name="Kenneth D. Mandl" affiliation="Harvard Medical School & Boston Children’s Hospital" url="https://www.childrenshospital.org/research/researchers/kenneth-d-mandl" img="assets/keynote/kenneth.jpg" %}
 </div>
 
 More keynote speakers and panelists Will be updated soon.
