@@ -34,7 +34,7 @@ Our workshop will invite researchers from the fields of AI, child psychology, ed
 
 Abstracts and papers can be submitted through the OpenReview platform: [OpenReview Submission Site](https://openreview.net/group?id=ICLR.cc/2025/Workshop/AI4CHL).
 
-**❗❗❗Call for Reviewers:** We are hiring Program Committee Members (Reviewers) for our Workshop. If your are interested in it, please fill this [Google Form](https://forms.gle/cxvDnAdfa2CCqJW58).
+**❗Call for Reviewers:** We are hiring Program Committee Members (Reviewers) for our Workshop. If your are interested in it, please fill this [Google Form](https://forms.gle/cxvDnAdfa2CCqJW58).
 
 ## Keynote Speakers & Panelists
 
@@ -43,10 +43,7 @@ Abstracts and papers can be submitted through the OpenReview platform: [OpenRevi
   {% include keynote_horizontal.html name="Aidong Zhang" affiliation="University of Virginia" url="https://www.cs.virginia.edu/~az9eg/website/home.html" img="assets/keynote/aidong.jpg" %}
 </div>
 
-
-
 More keynote speakers and panelists Will be updated soon.
-
 
 ## Organizers
 

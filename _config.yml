@@ -3,7 +3,7 @@
 # -----------------------------------------------------------------------------
 
 title: ICLR AI4CHL # the website title (if blank, full name will be used instead)
-first_name: ICLR 2025 Workshop on AI for Children (AI4CHL) 
+first_name: ICLR 2025 Workshop on AI for Children
 middle_name:
 last_name: 
 email: ai4chl@googlegroups.com
@@ -15,7 +15,7 @@ footer_text: >
 #  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 #  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 
-url:  https://www.pediamedai.com/ # the base hostname & protocol for your site
+url: https://www.pediamedai.com/ # the base hostname & protocol for your site
 baseurl: "/ai4chl" #"/website/" # the subpath of your site, e.g. /blog/
 repository: "" #aiaudit-org/website
 last_updated: false # set to true if you want to display last updated in the footer

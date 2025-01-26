@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Workshop Schedule
+title: Schedule
 permalink: /schedule/
 nav: true
 nav-order: e
