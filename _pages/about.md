@@ -28,7 +28,7 @@ Our workshop will invite researchers from the fields of AI, child psychology, ed
 
 **Paper Submission Start:** Jan 15, 2025       
 
-**Paper Submission Deadline:** Feb 11, 2025, 11:59pm Anywhere on Earth (AOE)    
+**Paper Submission Deadline:** Feb 12, 2025, 11:59pm Anywhere on Earth (AOE)    
 
 **Author Notification:** March 04, 2025   
 
