@@ -28,7 +28,7 @@ Our workshop will invite researchers from the fields of AI, child psychology, ed
 
 **Paper Submission Start:** Jan 15, 2025       
 
-**Paper Submission Deadline:** Feb 12, 2025, 11:59pm Anywhere on Earth (AOE)    
+**Paper Submission Deadline:** ~~Feb 12, 2025~~, Feb 18, 2025 11:59pm Anywhere on Earth (AOE)    
 
 **Author Notification:** March 04, 2025   
 
@@ -42,7 +42,10 @@ Abstracts and papers can be submitted through the OpenReview platform: [OpenRevi
   {% include keynote_horizontal.html name="Alhassan Abdul-Mumin" affiliation="Tamale Teaching Hospital" url="https://www.stjude.org/education-training/st-jude-graduate-school-of-biomedical-sciences/students/meet-our-students/directory/a/alhassan-abdul-mumin.html" img="assets/keynote/alhassan.jpg" %}
   {% include keynote_horizontal.html name="Aidong Zhang" affiliation="University of Virginia" url="https://www.cs.virginia.edu/~az9eg/website/home.html" img="assets/keynote/aidong.jpg" %}
   {% include keynote_horizontal.html name="Kenneth D. Mandl" affiliation="Harvard Medical School & Boston Children’s Hospital" url="https://www.childrenshospital.org/research/researchers/kenneth-d-mandl" img="assets/keynote/kenneth.jpg" %}
+  {% include keynote_horizontal.html name="Huiying Liang" affiliation="Guangdong Provincial People’s Hospital" url="https://orcid.org/0000-0002-9987-8002" img="assets/keynote/huiying.jpg" %}
 </div>
+
+
 
 More keynote speakers and panelists Will be updated soon.
 
