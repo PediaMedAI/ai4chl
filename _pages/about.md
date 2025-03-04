@@ -44,12 +44,16 @@ Abstracts and papers can be submitted through the OpenReview platform: [OpenRevi
   {% include keynote_horizontal.html name="Aidong Zhang" affiliation="University of Virginia" url="https://www.cs.virginia.edu/~az9eg/website/home.html" img="assets/keynote/aidong.jpg" %}
   {% include keynote_horizontal.html name="Kenneth D. Mandl" affiliation="Harvard Medical School & Boston Children’s Hospital" url="https://www.childrenshospital.org/research/researchers/kenneth-d-mandl" img="assets/keynote/kenneth.jpg" %}
   {% include keynote_horizontal.html name="Huiying Liang" affiliation="Guangdong Provincial People’s Hospital" url="https://orcid.org/0000-0002-9987-8002" img="assets/keynote/huiying.jpg" %}
+  {% include keynote_horizontal.html name="Swapnil Mishra" affiliation="National University of Singapore" url="https://s-mishra.github.io/" img="assets/keynote/Swapnil_Mishra.png" %}
 </div>
+
 
 ## Sponsors
 
-<div class="row row-cols-4 projects pt-3 pb-3">
-{% include keynote_horizontal.html img="assets/sponsor/patterns.jpg" %}
+<div class="row row-cols-3 projects pt-3 pb-3">
+{% include sponsor.html img="assets/sponsor/patterns.jpg" name="Patterns" url="https://www.cell.com/patterns"%}
+{% include sponsor.html img="assets/sponsor/HCESC.png" name="UIUC Health Care Engineering Systems Center" url="https://healtheng.illinois.edu/" thank="Thanks Prof. James M. Rehg"%}
+{% include sponsor.html img="assets/sponsor/shenzhen_children.png" name="Shenzhen Children's Hospital" url="http://www.szkid.com.cn/" thank="Thanks Prof. Jianguo Cao"%}
 </div>
 
 <!-- {% if page.news %}

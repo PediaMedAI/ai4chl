@@ -7,4 +7,4 @@ nav-order: e
 
 ---
 
-Will be updated soon.
+The keynote schedule and topics will be updated soon.
