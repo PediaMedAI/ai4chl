@@ -37,7 +37,7 @@ Abstracts and papers can be submitted through the OpenReview platform: [OpenRevi
 
 <!-- **❗Call for Reviewers:** We are hiring Program Committee Members (Reviewers) for our Workshop. If your are interested in it, please fill this [Google Form](https://forms.gle/cxvDnAdfa2CCqJW58). -->
 
-## Keynote Speakers & Panelists
+## Keynote Speakers
 
 <div class="row row-cols-3 projects pt-3 pb-3">
   {% include keynote_horizontal.html name="Alhassan Abdul-Mumin" affiliation="Tamale Teaching Hospital" url="https://www.stjude.org/education-training/st-jude-graduate-school-of-biomedical-sciences/students/meet-our-students/directory/a/alhassan-abdul-mumin.html" img="assets/keynote/alhassan.jpg" %}
@@ -45,6 +45,14 @@ Abstracts and papers can be submitted through the OpenReview platform: [OpenRevi
   {% include keynote_horizontal.html name="Kenneth D. Mandl" affiliation="Harvard Medical School & Boston Children’s Hospital" url="https://www.childrenshospital.org/research/researchers/kenneth-d-mandl" img="assets/keynote/kenneth.jpg" %}
   {% include keynote_horizontal.html name="Huiying Liang" affiliation="Guangdong Provincial People’s Hospital" url="https://orcid.org/0000-0002-9987-8002" img="assets/keynote/huiying.jpg" %}
   {% include keynote_horizontal.html name="Swapnil Mishra" affiliation="National University of Singapore" url="https://s-mishra.github.io/" img="assets/keynote/Swapnil_Mishra.png" %}
+</div>
+
+## Panelists
+
+<div class="row row-cols-3 projects pt-3 pb-3">
+  {% include keynote_horizontal.html name="Mengling Feng" affiliation="National University of Singapore" url="https://www.mornin-feng.com/" img="assets/panelist/mengling.jpg" %}
+  {% include keynote_horizontal.html name="Zhen Li" affiliation="CUHKSZ" url="https://mypage.cuhk.edu.cn/academics/lizhen/" img="assets/panelist/zhen_li.png" %}
+  {% include keynote_horizontal.html name="Zheng Chen" affiliation="Osaka University" url="https://zhengchen3.github.io/" img="assets/panelist/zheng_chen.jpg" %}
 </div>
 
 
