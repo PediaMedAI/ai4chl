@@ -53,6 +53,7 @@ Abstracts and papers can be submitted through the OpenReview platform: [OpenRevi
   {% include keynote_horizontal.html name="Mengling Feng" affiliation="National University of Singapore" url="https://www.mornin-feng.com/" img="assets/panelist/mengling.jpg" %}
   {% include keynote_horizontal.html name="Zhen Li" affiliation="CUHKSZ" url="https://mypage.cuhk.edu.cn/academics/lizhen/" img="assets/panelist/zhen_li.png" %}
   {% include keynote_horizontal.html name="Zheng Chen" affiliation="Osaka University" url="https://zhengchen3.github.io/" img="assets/panelist/zheng_chen.jpg" %}
+  {% include keynote_horizontal.html name="Shenda Hong" affiliation="Peking University" url="https://hsd1503.github.io/" img="assets/panelist/shenda.jpg" %}
 </div>
 
 
