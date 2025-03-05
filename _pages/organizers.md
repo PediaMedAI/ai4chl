@@ -25,7 +25,7 @@ nav-order: e
 </div>
 
 
-## Paper Award Committee (Supported by [Pattern](https://www.cell.com/patterns/home))
+## Paper Award Committee (Supported by [Patterns from Cell Press](https://www.cell.com/patterns/home))
 
 <div class="row row-cols-2 projects pt-3 pb-3">
   {% include people_horizontal.html name="Jintai Chen" affiliation="HKUST-GZ" title="Paper Award Committee" url="https://whatashot.github.io/" img="assets/organizer/jintai.jpg" %}
