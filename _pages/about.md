@@ -35,6 +35,9 @@ Our workshop will invite researchers from the fields of AI, child psychology, ed
 Abstracts and papers can be submitted through the OpenReview platform: [OpenReview Submission Site](https://openreview.net/group?id=ICLR.cc/2025/Workshop/AI4CHL).
 
 
+**❗We are delighted to announce that Cell Patterns will support paper awards to our workshop. More details will be released soon.**
+
+
 <!-- **❗Call for Reviewers:** We are hiring Program Committee Members (Reviewers) for our Workshop. If your are interested in it, please fill this [Google Form](https://forms.gle/cxvDnAdfa2CCqJW58). -->
 
 ## Keynote Speakers
@@ -60,7 +63,7 @@ Abstracts and papers can be submitted through the OpenReview platform: [OpenRevi
 ## Sponsors
 
 <div class="row row-cols-3 projects pt-3 pb-3">
-{% include sponsor.html img="assets/sponsor/patterns.jpg" name="Patterns" url="https://www.cell.com/patterns"%}
+{% include sponsor.html img="assets/sponsor/Patterns_Sponsored_Logo_ACPJ_RGB.jpg" name="Patterns" url="https://www.cell.com/patterns"%}
 {% include sponsor.html img="assets/sponsor/HCESC.png" name="UIUC Health Care Engineering Systems Center" url="https://healtheng.illinois.edu/" thank="Thanks Prof. James M. Rehg"%}
 {% include sponsor.html img="assets/sponsor/shenzhen_children.png" name="Shenzhen Children's Hospital" url="http://www.szkid.com.cn/" thank="Thanks Prof. Jianguo Cao"%}
 </div>

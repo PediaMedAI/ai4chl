@@ -31,13 +31,14 @@ nav-order: e
   {% include people_horizontal.html name="Jintai Chen" affiliation="HKUST-GZ" title="Paper Award Committee" url="https://whatashot.github.io/" img="assets/organizer/jintai.jpg" %}
   {% include people_horizontal.html name="Liantao Ma" affiliation="Peking University" title="Paper Award Committee" url="http://scholar.pku.edu.cn/malt" img="assets/organizer/liantao.jpg" %}
   {% include people_horizontal.html name="Junyi Gao" affiliation="University of Edinburgh" title="Paper Award Committee" url="https://aboutme.vixerunt.org/" img="assets/organizer/junyi.jpg" %}
-  {% include people_horizontal.html name="Yinghao Zhu" affiliation="Peking University" title="Paper Award Committee" url="https://yhzhu99.github.io/" img="assets/organizer/yinghao.png" %}
+  {% include people_horizontal.html name="Wanying Wang" affiliation="Cell Patterns" title="Paper Award Committee" url="https://uk.linkedin.com/in/wanying-wang-bio2022/" img="assets/organizer/wanying.jpg" %}
 </div>
 
 ## Volunteers
 
 <div class="row row-cols-2 projects pt-3 pb-3">
   {% include people_horizontal.html name="Fangzhou Lan" affiliation="Squarepoint Capital" url="https://www.linkedin.com/in/fangzhou-l-49616b170/" img="assets/volunteer/fangzhou.jpg" %}
+  {% include people_horizontal.html name="Yinghao Zhu" affiliation="Peking University" url="https://yhzhu99.github.io/" img="assets/organizer/yinghao.png" %}
 </div>
 
 We are hiring local volunteers in Singapore. Please email xucao2@illinois.edu if you have interests.
