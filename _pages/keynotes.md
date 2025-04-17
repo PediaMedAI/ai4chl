@@ -2,7 +2,7 @@
 layout: page
 title: Keynotes
 permalink: /keynote/
-nav: true
+nav: false
 nav-order: e
 
 ---
