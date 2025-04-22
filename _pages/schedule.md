@@ -33,12 +33,18 @@ nav-order: e
     </div>
 
     <div class="session">
-      <span class="time">10:15 - 10:45</span>
+      <span class="time">10:15 - 10:40</span>
       <span class="title">Poster Session & Coffee Break</span>
     </div>
 
     <div class="session">
-      <span class="time">10:45 - 11:30</span>
+      <span class="time">10:40 - 11:25</span>
+      <span class="title">Keynote: TBD</span>
+      <span class="speaker">Dr. Jason Alan Fries (Stanford University)</span>
+    </div>
+
+    <div class="session">
+      <span class="time">11:25 - 12:05</span>
       <span class="title">Oral Session</span>
       <span class="speaker">4 Talks + Q&A</span>
     </div>
@@ -55,7 +61,7 @@ nav-order: e
     <div class="session">
       <span class="time">13:00 - 13:45</span>
       <span class="title">Keynote: TBD</span>
-      <span class="speaker">Dr. Alhassan Abdul-Mumin (University for Development Studies & Tamale Teaching Hospital)</span>
+      <span class="speaker">Dr. Mengling Feng (National University of Singapore)</span>
     </div>
 
     <div class="session">

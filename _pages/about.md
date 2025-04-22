@@ -43,9 +43,10 @@ Abstracts and papers can be submitted through the OpenReview platform: [OpenRevi
 ## Keynote Speakers
 
 <div class="row row-cols-3 projects pt-3 pb-3">
-  {% include keynote_horizontal.html name="Alhassan Abdul-Mumin" affiliation="Tamale Teaching Hospital" url="https://www.stjude.org/education-training/st-jude-graduate-school-of-biomedical-sciences/students/meet-our-students/directory/a/alhassan-abdul-mumin.html" img="assets/keynote/alhassan.jpg" %}
-  {% include keynote_horizontal.html name="Aidong Zhang" affiliation="University of Virginia" url="https://www.cs.virginia.edu/~az9eg/website/home.html" img="assets/keynote/aidong.jpg" %}
   {% include keynote_horizontal.html name="Kenneth D. Mandl" affiliation="Harvard Medical School & Boston Children’s Hospital" url="https://www.childrenshospital.org/research/researchers/kenneth-d-mandl" img="assets/keynote/kenneth.jpg" %}
+  {% include keynote_horizontal.html name="Aidong Zhang" affiliation="University of Virginia" url="https://www.cs.virginia.edu/~az9eg/website/home.html" img="assets/keynote/aidong.jpg" %}
+  {% include keynote_horizontal.html name="Jason Alan Fries" affiliation="Stanford University" url="https://web.stanford.edu/~jfries/" img="assets/keynote/jason.png" %}
+  {% include keynote_horizontal.html name="Mengling Feng" affiliation="National University of Singapore" url="https://www.mornin-feng.com/" img="assets/panelist/mengling.jpg" %}
   {% include keynote_horizontal.html name="Huiying Liang" affiliation="Guangdong Provincial People’s Hospital" url="https://orcid.org/0000-0002-9987-8002" img="assets/keynote/huiying.jpg" %}
   {% include keynote_horizontal.html name="Swapnil Mishra" affiliation="National University of Singapore" url="https://s-mishra.github.io/" img="assets/keynote/Swapnil_Mishra.png" %}
 </div>
@@ -53,7 +54,6 @@ Abstracts and papers can be submitted through the OpenReview platform: [OpenRevi
 ## Panelists
 
 <div class="row row-cols-3 projects pt-3 pb-3">
-  {% include keynote_horizontal.html name="Mengling Feng" affiliation="National University of Singapore" url="https://www.mornin-feng.com/" img="assets/panelist/mengling.jpg" %}
   {% include keynote_horizontal.html name="Zhen Li" affiliation="CUHKSZ" url="https://mypage.cuhk.edu.cn/academics/lizhen/" img="assets/panelist/zhen_li.png" %}
   {% include keynote_horizontal.html name="Zheng Chen" affiliation="Osaka University" url="https://zhengchen3.github.io/" img="assets/panelist/zheng_chen.jpg" %}
   {% include keynote_horizontal.html name="Shenda Hong" affiliation="Peking University" url="https://hsd1503.github.io/" img="assets/panelist/shenda.jpg" %}
