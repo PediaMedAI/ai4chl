@@ -49,6 +49,7 @@ Abstracts and papers can be submitted through the OpenReview platform: [OpenRevi
   {% include keynote_horizontal.html name="Mengling Feng" affiliation="National University of Singapore" url="https://www.mornin-feng.com/" img="assets/panelist/mengling.jpg" %}
   {% include keynote_horizontal.html name="Huiying Liang" affiliation="Guangdong Provincial People’s Hospital" url="https://orcid.org/0000-0002-9987-8002" img="assets/keynote/huiying.jpg" %}
   {% include keynote_horizontal.html name="Swapnil Mishra" affiliation="National University of Singapore" url="https://s-mishra.github.io/" img="assets/keynote/Swapnil_Mishra.png" %}
+  {% include keynote_horizontal.html name="Kristina Johnson" affiliation="Northeastern University" url="https://coe.northeastern.edu/people/johnson-kristina/" img="assets/keynote/Johnson.jpeg" %}
 </div>
 
 ## Panelists
