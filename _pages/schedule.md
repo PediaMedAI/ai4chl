@@ -9,6 +9,7 @@ nav-order: e
 
 <p><strong>Date:</strong> April 27, 2025<br>
 <strong>Location:</strong> Peridot 204-205, Singapore EXPO, ICLR 2025</p>
+<strong><a href="https://us06web.zoom.us/j/84218864937?pwd=ZhxtTN1yKoP7gfEBfWEE6jMlsSsKFl.1">Zoom Link</a></strong>
 
 <div class="schedule">
   <div class="schedule-block">
@@ -46,7 +47,10 @@ nav-order: e
     <div class="session">
       <span class="time">11:25 - 12:05</span>
       <span class="title">Oral Session</span>
-      <span class="speaker">4 Talks + Q&A</span>
+      <span class="title">11:25-11:35 FetalCSR: Multi-input Attention Fusion Network for Neural ODE-based Fetal Cortical Surface Reconstruction</span>
+      <span class="title">11:35-11:45 Towards Scalable Newborn Screening: Automated General Movement Assessment in Uncontrolled Settings</span>
+      <span class="title">11:45-11:55 From Intuition to Understanding: Using AI Peers to Overcome Physics Misconceptions</span>
+      <span class="title">11:55-12:05 Understanding School Attendance Through Multimodal Modelling of Student Narratives</span>
     </div>
   </div>
 
