@@ -21,16 +21,17 @@ nav-order: e
       <span class="speaker">Dr. Jintai Chen & Xu Cao</span>
     </div>
 
+
     <div class="session">
       <span class="time">08:45 - 09:30</span>
-      <span class="title">Keynote: AI-Informed Precision Medicine Requires an Interoperable Digital Ecosystem</span>
-      <span class="speaker">Dr. Kenneth D Mandl (Harvard Medical School & Boston Children’s Hospital)</span>
+      <span class="title">Keynote: A Retrieval-Augmented Framework for Generating Informative and Reliable Presentations with Large Language Models</span>
+      <span class="speaker">Dr. Aidong Zhang (University of Virginia)</span>
     </div>
 
     <div class="session">
       <span class="time">09:30 - 10:15</span>
-      <span class="title">Keynote: A Retrieval-Augmented Framework for Generating Informative and Reliable Presentations with Large Language Models</span>
-      <span class="speaker">Dr. Aidong Zhang (University of Virginia)</span>
+      <span class="title">Keynote: Leveraging AI to Measure and Model Social Behavior</span>
+      <span class="speaker">Dr. James M. Rehg (University of Illinois Urbana-Champaign)</span>
     </div>
 
     <div class="session">
