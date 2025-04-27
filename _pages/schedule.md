@@ -81,7 +81,7 @@ nav-order: e
 
     <div class="session">
       <span class="time">14:45 - 15:30</span>
-      <span class="title">Keynote: TBD</span>
+      <span class="title">Keynote: Posing the question and creating the data is half battle won</span>
       <span class="speaker">Dr. Swapnil Mishra (National University of Singapore)</span>
     </div>
 
